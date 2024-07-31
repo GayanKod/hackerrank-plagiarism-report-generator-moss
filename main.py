@@ -5,7 +5,7 @@ import weasyprint
 import re
 
 
-USER_ID = 397744869
+USER_ID = REPLACE_THIS_WITH_YOUR_MOSS_USER_ID
 
 
 class Job:
