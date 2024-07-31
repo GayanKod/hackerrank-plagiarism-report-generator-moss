@@ -6,7 +6,7 @@ With this tool, you can easily identify whether contestants have copied or share
 
 The tool utilizes a robust code plagiarism detection algorithm developed by Stanford University, known as ‘Moss’.
 
-## What is Moss?**
+## What is Moss?
 
 Moss (for a Measure Of Software Similarity) is an automatic system for determining the similarity of programs. To date, the main application of Moss has been in detecting plagiarism in programming classes. Since its development in 1994, Moss has been very effective in this role. The algorithm behind moss is a significant improvement over other cheating detection algorithms (at least, over those known to us).
 (Source: https://theory.stanford.edu/~aiken/moss/)
